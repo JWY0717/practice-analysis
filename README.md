@@ -9,12 +9,12 @@
 ```shell
 $ python -m venv venv (가상 환경 실행)
 $ .\venv\Scripts\activate (활성화)
-$ (venv) pip install -r requirements.txt
+$ (venv) pip install -r requirements.txt => scikit-learn
 ```
 
 
 ## ToDO
 
-- [] 회귀 문제 (캘리포니아 집 값 데이터)
-- [] 분류 문제 (타이타닉 생존자 예측, Kaggle)
-- [] 시계열 문제(문제 탐색 중 )
+- [ ] 회귀 문제 (캘리포니아 집 값 데이터)
+- [ ] 분류 문제 (타이타닉 생존자 예측, Kaggle)
+- [ ] 시계열 문제(문제 탐색 중 )
